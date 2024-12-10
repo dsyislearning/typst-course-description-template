@@ -10,9 +10,8 @@ This repository contains a template for creating Course Description using [Typst
 
 ## Preview
 
-|                                                |                                                |
-| ---------------------------------------------- | ---------------------------------------------- |
 | ![main_page-0001](./assets/main_page-0001.jpg) | ![main_page-0002](./assets/main_page-0002.jpg) |
+| ---------------------------------------------- | ---------------------------------------------- |
 | ![main_page-0003](./assets/main_page-0003.jpg) | ![main_page-0004](./assets/main_page-0004.jpg) |
 
 ## Usage
